@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motivasi Skripsi</string>
+    <string name="content_description">The application logo</string>
+    <string name="text_placeholder">Say Hello !</string>
+    <string name="button_text">Update</string>
+    <string name="text_hint">Enter your name...</string>
+</resources>
